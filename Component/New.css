@@ -1,0 +1,208 @@
+
+.main{
+    height: 800px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+.slides{
+    height: 100%;
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.drops{
+    height: 100%;
+    width: 1250px;
+    background-color: white;
+}
+
+.newText{
+    color: black;
+    margin-top: 80px;
+    font-size: 50px;
+}
+
+.productText{
+    color: black;
+    margin-top: 30px;
+}
+
+.container4{
+    height: 900px;
+    width: 100%;
+    background-color: white;
+}
+
+.productContainer{
+    height: 322px;
+    width: 241px;
+    display: flex;
+}
+
+.product{
+    height: 322px;
+    width: 241px;
+    color: black;
+    margin: 30px;
+}
+
+
+
+.product1Container{
+    height: 322px;
+    width: 241px;
+    display: flex;
+}
+
+.product1{
+    height: 322px;
+    width: 241px;
+    color: black;
+    margin: 30px;
+    margin-top: 100px;
+}
+
+.new1Container{
+    display: none;
+}
+
+.new1 {
+    display: none;
+}
+
+.new2Container{
+    display: none;
+}
+
+.new2 {
+    display: none;
+}
+
+.new3Container{
+    display: none;
+}
+
+.new3 {
+    display: none;
+}
+
+.new4Container{
+    display: none;
+}
+
+.new4 {
+    display: none;
+}
+
+@media (max-width:700px) {
+    .main{
+        height: 1500px;
+        width: 100%;
+        background-color: white;
+    }
+
+    .slides{
+        display: none;
+    }
+
+    .drops{
+        display: none;
+    }
+
+    .text{
+        display: none;
+    }
+
+    .newText{
+        display: none;
+    }
+
+    .productText{
+        display: none;
+    }
+
+    .container4{
+        display: none;
+    }
+
+    .productContainer{
+        display: none;
+    }
+    
+    .product{
+        display: none;
+    }
+
+    .product1Container{
+        display: none;
+    }
+    
+    .product1{
+        display: none;
+    }
+
+    /* .new1Container{
+        height: 200px;
+        width: 100%;
+        display: flex;
+        margin-top: -600px;
+    }
+
+    .new1{
+        height: 173px;
+        width: 130px;
+        display: block;
+        margin: 20px;
+        color: black;
+    }
+
+    .new2Container{
+        height: 200px;
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+    }
+
+    .new2{
+        height: 173px;
+        width: 130px;
+        display: block;
+        margin: 20px;
+        color: black;
+    }
+
+    .new3Container{
+        height: 200px;
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+    }
+
+    .new3{
+        height: 173px;
+        width: 130px;
+        display: block;
+        margin: 20px;
+        color: black;
+    }
+
+    .new4Container{
+        height: 200px;
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+    }
+
+    .new4{
+        height: 173px;
+        width: 130px;
+        display: block;
+        margin: 20px;
+        color: black;
+    } */
+}
+

@@ -1,0 +1,128 @@
+
+.nav{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.p1 {
+    font-size: 15px;    
+    
+}
+
+.navBar{
+    display: flex;
+}
+
+.Tshop {
+    height: 70px;
+    width: 200px;
+    background-color: #D6ff38;
+    border: 1px black solid;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Tshop .h1{
+    margin-top: -10px;
+    color: black;
+}
+
+.shopping{
+    color: black;
+    display: none;
+}
+
+.menu{
+    color: black;
+    display: none;
+}
+
+.h1{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.new {
+    height: 70px;
+    padding-left: 600px;
+    padding-right: 0px;
+    border: 1px black solid;
+    align-items: center;
+    display: flex;
+}
+
+.para{
+    height: 68px;
+    width: 200px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.para:hover{
+    background-color: black;
+    color: yellow;
+    transition: 1s;
+}
+
+.women{
+    height: 70px;
+    width: 200px;
+    border: 1px black solid;
+    align-items: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+
+.men {
+    height: 70px;
+    width: 200px;
+    border: 1px black solid;
+    color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+
+.logIn {
+    height: 70px;
+    width: 268px;
+    border: 1px black solid;
+    color: black;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-link{
+    height: 68px;
+    width: 200px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link:hover{
+    background-color: black;
+    color: yellow;
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+

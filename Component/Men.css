@@ -1,0 +1,55 @@
+.main{
+    height: 1050px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+.slides{
+    height: 100%;
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.drops{
+    height: 100%;
+    width: 1250px;
+    background-color: white;
+}
+
+.container4{
+    height: 900px;
+    width: 100%;
+    background-color: white;
+}
+
+.productContainer{
+    height: 322px;
+    width: 241px;
+    display: flex;
+}
+
+.product{
+    height: 322px;
+    width: 241px;
+    color: black;
+    margin: 30px;
+}
+
+
+
+.product1Container{
+    height: 322px;
+    width: 241px;
+    display: flex;
+}
+
+.product1{
+    height: 322px;
+    width: 241px;
+    color: black;
+    margin: 30px;
+    margin-top: 100px;
+}
